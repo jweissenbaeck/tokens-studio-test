@@ -3,6 +3,10 @@
     "test": {
       "value": "5",
       "type": "spacing"
+    },
+    "test color": {
+      "value": "#bd0505",
+      "type": "color"
     }
   },
   "$themes": [],
