@@ -1,5 +1,10 @@
 {
-  "global": {},
+  "global": {
+    "test": {
+      "value": "5",
+      "type": "spacing"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
